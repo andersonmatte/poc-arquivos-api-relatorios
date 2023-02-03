@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ipiranga Relatórios</string>
+    <string name="gerar_relat_rio">Gerar Relatório</string>
+    <string name="salvar_relat_rio">Salvar Relatório</string>
+</resources>
